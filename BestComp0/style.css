@@ -1,0 +1,87 @@
+#section1{
+    display: flex;
+}
+.right{
+    width: 50%;
+}
+.left{
+    width: 50%;
+}
+.left img{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
+.text{
+    position: relative;
+    text-align: center;
+    margin-top: 280px;
+}
+/* .text-all{
+    display: flex;
+} */
+/* .text0 img{
+    width: 25%;
+    height: 25%;
+    position:relative;
+    margin-top: 280px;
+    margin-left: 200px;
+} */
+.text h1{
+   font-size: 50px;
+   color: white;
+
+}
+.text b{
+    font-size: 17px;
+    color: white;
+}
+.boxs{
+    display: flex;
+    margin: 0px 165px;
+}
+.right{
+    text-align: center;
+    margin: 150px 50px;
+}
+.box{
+    border-radius: 10px;
+    margin:  20px;
+    padding: 10px 30px;
+    border: 1px solid gray;
+}
+.box:hover{
+    background-color: rgb(74, 74, 244);
+    color: white;
+    border: 1px solid blue;
+}
+.form input{
+    padding: 10px 40px;
+    margin: 8px 0px;
+    border-radius: 10px;
+    font-size: 17px;
+}
+form label{
+    text-align: left;
+}
+ button{
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(64, 64, 250);
+    border: none;
+    padding: 10px 120px;
+    margin: 20px 0px;
+}
+.best{
+    font-size: 17px;
+    color: rgb(169, 168, 168);
+    margin-top: 160px;
+}
+
+.left2{
+    width: 20%;
+}
+.right2{
+    width: 80%;
+}
